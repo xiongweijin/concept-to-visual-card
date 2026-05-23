@@ -1,0 +1,8 @@
+interface:
+  display_name: "Concept To Visual Card"
+  short_description: "Turn abstract ideas into confirmed visual knowledge-card prompts."
+  brand_color: "#2563EB"
+  default_prompt: "Use $concept-to-visual-card to turn this concept into a shareable visual knowledge card and confirm the final prompt before generating the image."
+
+policy:
+  allow_implicit_invocation: true
